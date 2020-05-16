@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">SCA</string>
+
+    <string name="changeLang">DE/EN</string>
+    <string name="login">Already a member? Log in</string>
+    <string name="signup">New? Create an account</string>
+    <string name="guest">Continue as a guest</string>
+    <string name="Login">Login</string>
+    <string name="Log">Log in</string>
+    <string name="Passw">Password</string>
+    <string name="log_in">Log in</string>
+
+
+
+</resources>

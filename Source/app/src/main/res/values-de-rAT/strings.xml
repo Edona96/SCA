@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SCA</string>
+
+    <string name="changeLang">DE/EN</string>
+    <string name="login">Schon ein Mitglied? Einloggen</string>
+    <string name="signup">Neu? Ein Konto erstellen</string>
+    <string name="guest">Als Gast fortfahren</string>
+    <string name="Login">Einloggen</string>
+    <string name="Log">Einloggen</string>
+    <string name="Passw">Passwort</string>
+    <string name="log_in">Einloggen</string>
+
+</resources>
